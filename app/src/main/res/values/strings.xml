@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name"> Temperature Sensor </string>
+    <string name="name"> Aqil Ilhan Putra </string>
+    <string name="nim"> 20.01.53.0030 </string>
+    <string name="btn_proses"> PROSES </string>
+    <string name="btn_database"> DATABASE </string>
+</resources>
